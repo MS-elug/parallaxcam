@@ -1,0 +1,30 @@
+// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
+{
+    "C_Cpp.intelliSenseEngine": "Default",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.hex":true,
+        "**/*.bak":true,
+        "**/*.cof":true,
+        "**/*.err":true,
+        "**/*.esym":true,
+        "**/*.lst":true,
+        "**/*.pjt":true,
+        "**/*.sta":true,
+        "**/*.sym":true,
+        "**/*.tre":true,
+        "**/*.ilk":true,
+        "**/*.pdb":true,
+        "**/*.obj":true,
+        "**/*.pdf":true,
+        "**/*.exe":true
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "xlocale": "cpp"
+    }
+}

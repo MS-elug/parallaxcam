@@ -1,0 +1,65 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/usr/include",
+                "${workspaceRoot}"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "/usr/include",
+                    "${workspaceRoot}"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/include",
+                "${workspaceRoot}"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "/usr/include",
+                    "${workspaceRoot}"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/shared",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/winrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/um",
+                "${workspaceRoot}",
+                "${workspaceRoot}/../lib/libusb-1.0.21/include",
+                "${workspaceRoot}/../lib/opencv-2.4.13.3/build/include"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "c:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/shared",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/winrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/um",
+                    "${workspaceRoot}",
+                    "${workspaceRoot}/../lib/libusb-1.0.21/include",
+                    "${workspaceRoot}/../lib/opencv-2.4.13.3/build/include"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 2
+}
