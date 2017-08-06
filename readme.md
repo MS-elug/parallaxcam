@@ -40,3 +40,9 @@ Do build, and write the .hex file on the PIC 18F4550.
 Connect the board by USB on your computer.
 
 In the control panel system device manager, right click on the device 'PARALLAX CAM' and select to install manually the driver from the WinUSBDriver folder.
+
+## Generic documentation
+
+http://www.rennes.supelec.fr/ren/fi/elec/docs/usb/usb.html
+
+http://www.abcelectronique.com/acquier/usb5_fr.htm
